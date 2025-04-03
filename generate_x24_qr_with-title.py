@@ -5,6 +5,7 @@ import string
 import os
 import logging
 
+# Created by William D. "DarkKilla" AI Assisted, MIT 2025 license. 
 # --- Configuration ---
 NUM_CODES = 24
 STRING_LENGTH = 5
